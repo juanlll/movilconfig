@@ -1,5 +1,5 @@
 {
 "url": "https://wdcsolutions.herokuapp.com/api/",
 "urlapp": "https://wdcsolutions.herokuapp.com/",
-"urlsocket": "http://192.168.1.85:5000/"
+"urlsocket": "https://wdcwebsocket.herokuapp.com"
 }
